@@ -2,3 +2,4 @@
  Nick Carraway,
  Daisi Buchanan,
  Thomas Buchanan
+Gatsby
